@@ -5,13 +5,13 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-       RogFreeDesc : "A website that shows you over seven specialized yoga postures for specific diseases or health problems. This was a group project made in a team of two for a 36-hour-long online hackathon named Hackodisha 2.0.",
-    RogFreeGithub : "",
-    RogFreeWebsite : "",
+    ClockDesc : "Creating a digital clock using HTML, CSS, and JavaScript is a great project to practice For web development skills.",
+    ClockGithub : "",
+    ClockWebsite : "https://psclock.netlify.app/",
 
     PortfolioDesc:"My personal portfolio website Using React Framework With Javascrip and Tailwind",
     PortfolioGithub:"",
-    PortfolioWebsite:"https://americium.in/",
+    PortfolioWebsite:"https://iamps.netlify.app/",
     
     AmericiumDesc:"An App Development Experts With The Proficiency to Develop the Most Unique App Solutions.Experience the Future of App Development.",
     AmericiumGithub:"https://github.com/Prahlad-Sharma/",

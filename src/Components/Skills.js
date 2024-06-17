@@ -5,7 +5,8 @@ const Skills = () => {
   return (
     <>
       <div className="skills" id="skills">
-        <h1>SKILLS</h1>
+        <h1 data-aos="fade-left"
+          data-aos-duration="900">SKILLS</h1>
         <div className="items">
           {skills.map((data) => (
             <>

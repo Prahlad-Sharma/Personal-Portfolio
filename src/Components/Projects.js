@@ -1,7 +1,7 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import Portfolio from '../images/Portfolio.png';
-import RogfreeImage from '../images/RogfreeImage.png';
+import Clock from '../images/clock.png';
 import AmericiumImage from '../images/Americium.png';
 
 const Projects = () => {
@@ -13,7 +13,7 @@ const Projects = () => {
           data-aos-duration="1000" >
         <ProjectBox projectPhoto={AmericiumImage} projectName="Americium" />
         <ProjectBox projectPhoto={Portfolio} projectName="Portfolio" />
-        <ProjectBox projectPhoto={RogfreeImage} projectName="RogFree" />
+        <ProjectBox projectPhoto={Clock} projectName="Clock" />
       
       </div>
 
