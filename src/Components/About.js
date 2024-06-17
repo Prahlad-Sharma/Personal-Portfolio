@@ -13,7 +13,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Prahlad Sharma</b> and I am from Jaipur (Rajasthan).
-            I'm a <b>Full Stack Developer</b> and i i completed my graduation in BBA from rajsathan university. <br/><br/>
+            I'm a <b>Full Stack Developer</b> and i completed my graduation in BBA from rajsathan university. <br/><br/>
             
             I have done an internship as a Web Developer at Americium which is a Tech startup. I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
